@@ -1,12 +1,12 @@
 # STAR - Lyrics Search Utility
 
-Genius API를 활용하여 노래의 가사를 탐색하고 관리하는 데스크탑 기반의 가사 검색 솔루션입니다. 
-복잡한 설정 없이 노래 제목만으로 가사 정보를 즉시 불러오며, 직관적인 인터페이스를 통해 사용자의 편의성을 최적화했습니다.
+Genius API를 활용하여 노래의 가사를 탐색하고 관리하는 데스크탑 기반의 가사 검색 솔루션입니다. 복잡한 설정 없이 노래 제목만으로 가사 정보를 즉시 불러오며, 직관적인 인터페이스를 통해 사용자의 편의성을 최적화했습니다.
 
 ---
 
 ### 💻 실행 화면
-![STAR GUI Preview](https://github.com/starshpy/STAR-Lyrics-Search/raw/main/preview.png)
+(아래에 깃허브 편집기에서 생성된 사진 코드를 붙여넣으세요)
+![STAR GUI Preview](https://github.com/starshpy/STAR-Lyrics-Search/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-07-15%20151237.png)
 
 ---
 
